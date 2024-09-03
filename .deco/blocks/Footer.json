@@ -1,0 +1,148 @@
+{
+  "__resolveType": "site/sections/Footer/Footer.tsx",
+  "links": [
+    {
+      "title": "Institucionais",
+      "children": [
+        {
+          "title": "Quem somos",
+          "href": "/quem-somos"
+        },
+        {
+          "title": "Onde encontrar",
+          "href": "/onde-encontrar"
+        },
+        {
+          "title": "Nosso blog",
+          "href": "/blog"
+        },
+        {
+          "title": "Código de defesa do consumidor",
+          "href": "/codigo-consumidor"
+        },
+        {
+          "title": "Política de privacidade",
+          "href": "/politica-de-privacidade"
+        },
+        {
+          "title": "Termos e condições",
+          "href": "/termos-e-condicoes"
+        }
+      ],
+      "href": "#"
+    },
+    {
+      "title": "Minha conta",
+      "href": "#",
+      "children": [
+        {
+          "title": "Login",
+          "href": "#"
+        },
+        {
+          "title": "Minha conta",
+          "href": "#"
+        },
+        {
+          "title": "Meus pedidos",
+          "href": "#"
+        },
+        {
+          "title": "Rastrear pedido",
+          "href": "#"
+        }
+      ]
+    }
+  ],
+  "social": [
+    {
+      "alt": "facebook",
+      "href": "#",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/cf967bef-7978-4f79-b4a3-6fdda09c8bdd"
+    },
+    {
+      "alt": "Instagram",
+      "href": "#",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/c353d5a6-b96a-4e1b-9419-fb36a7839522"
+    },
+    {
+      "alt": "Youtube",
+      "href": "#",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/769d5e14-ea55-4663-8c5e-882254efbe97"
+    }
+  ],
+  "paymentMethods": [
+    {
+      "alt": "Visa",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/4c198260-8a56-47d6-8c1e-ecde3756dad5"
+    },
+    {
+      "alt": "Mastercard",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/e17172a1-76df-4006-ac04-b612ec2f3a3d"
+    },
+    {
+      "alt": "Elo",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/d65ff6e8-58ec-4fc3-a021-2693982cd9dc",
+      "href": "#"
+    },
+    {
+      "alt": "American Expressa",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/e7dc00ad-0895-4a9f-b81a-8ac5eef27db4"
+    },
+    {
+      "alt": "PicPay",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/2e692b20-c24d-44cb-b1db-399be44dfa9e"
+    },
+    {
+      "alt": "Boleto",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/b3b611c5-575d-413e-a563-bab066cf3aab"
+    },
+    {
+      "alt": "PIX",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/2bd264ae-6039-4ec4-ac73-63b9e85ef8d0"
+    }
+  ],
+  "policies": [
+    {
+      "title": "Privacy Policy",
+      "href": "#"
+    },
+    {
+      "title": "Terms and Conditions",
+      "href": "#"
+    },
+    {
+      "title": "Cookies Policy",
+      "href": "#"
+    }
+  ],
+  "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/fcd294a1-e22c-4c02-a69b-a0b72bfeb626",
+  "trademark": "©Clean Web Comércio de Nutricionais LTDA - ME CNPJ: 26.935.491/0001-56",
+  "selos": [
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/db6e2888-3def-41e7-b6e0-bbfb5fadfeaf",
+      "link": "#",
+      "label": "Eu reciclo"
+    },
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/54b03f73-5bb6-439c-9322-21314afb232b"
+    },
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/f6299137-77d7-468d-8e4b-e576469ea6c1"
+    },
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/51d720d6-684c-4454-af52-1c8f83974733"
+    },
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/4b2f3d7c-3430-41fc-85da-317558e61a10"
+    }
+  ],
+  "seguranca": [
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/ddb34353-13a6-4cfb-938e-efaa2ae9d735"
+    },
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11373/47bf0263-4460-4913-b48c-be97098ecb68"
+    }
+  ]
+}
